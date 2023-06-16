@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    margin-top:140px ;
+    margin-left: 70px;
+    position: relative;
+    height: 4vh;
+    width: 90%;
+    background-color: rgb(5, 5, 5);
+}
+header {
+    display: flex;
+}
+.navcontainer{
+    position: absolute;
+    height: 70px;
+    width: 100%;
+    background-color: grey;
+    margin:0px 0px;
+}
+.logo{
+    position: absolute;
+    display:flex;
+    height: 100%;
+    width: 5%;
+    margin: 19px 45px;
+}
+.navlinks{
+    position: absolute;
+    list-style-type: none;
+    display:flex;
+    height: 40px ;
+    width:25% ;
+    background-color:grey;
+    align-items: center;
+    justify-content: space-around;
+    margin: 13px 750px;
+}
+.btn{
+   position: relative;
+   left: 70%;
+   color: white;
+   padding: 10px 25px;
+   border-radius: 50px;
+   background-color:skyblue;
+   border: none;
+}
+main{
+    margin-top:160px ;
+    margin-left: 70px;
+    position: relative;
+    height: 4vh;
+    width: 90%;
+    background-color: grey;
+}
+main{
+    display: flex;
+}
+.navcontainer2{
+    position: absolute;
+    height: 70px;
+    width: 100%;
+    background-color: grey;
+    margin:0px 0px;<h3>LOGOBAKERY</h3>
+}
+.navlinks2{
+    position: absolute;
+    list-style-type: none;
+    display:flex;
+    height: 40px ;
+    width:25% ;
+    background-color:grey;
+    align-items: center;
+    justify-content: space-around;
+    margin: 15px 50px;
+}
+.logo2{
+    margin-left: 1200px;
+    margin-top:20px;
+   position: absolute;
+
+}
+.navlinks2 li:hover{
+    color: white;
+    background: skyblue;
+    padding: 10px 25px;
+    border-radius: 20px;
+}
+footer{
+    margin-top:170px ;
+    margin-left: 70px;
+    position: relative;
+    height: 4vh;
+    width: 90%;
+    background-color: grey;
+}
+footer{
+    display: flex;
+}
+.navcontainer3{
+    position: absolute;
+    height: 70px;
+    width: 100%;
+    background-color: grey;
+    margin:0px 0px;
+}
+.navlinks3{
+    position: absolute;
+    list-style-type: none;
+    display:flex;
+    height: 40px ;
+    width:25% ;
+    background-color:grey;
+    align-items: center;
+    justify-content: space-around;
+    margin: 15px 50px;
+}
+.logo3{
+    margin-left: 1200px;
+    margin-top:20px;
+   position: absolute;
+
+}
+.navlinks3 li:hover{
+    color: white;
+    background: skyblue;
+    padding: 10px 25px;
+    border-radius: 20px;
+}
